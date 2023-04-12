@@ -1,6 +1,7 @@
-# Welcome to MkDocs
+# Welcome to ymgmcmc document
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+ホームページはこちら [ymgmcmc.com]
+(https://ymgmcmc.com).
 
 ## Commands
 
