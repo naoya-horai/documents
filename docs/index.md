@@ -1,7 +1,6 @@
 # Welcome to ymgmcmc document
-
-ホームページはこちら [ymgmcmc.com]
-(https://ymgmcmc.com).
+ymgmcmcのドキュメントページです
+ホームページはこちら [ymgmcmc.com](https://ymgmcmc.com)
 
 ## Commands
 
