@@ -4,7 +4,7 @@ copyright: 'Copyright © 2023-2030 - ymgmcmc'
 
 theme:
   name: material
-  favicon: images/favicon.ico
+  favicon: favicon.ico
   language: ja
 
   features:
