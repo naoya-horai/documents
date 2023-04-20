@@ -1,5 +1,8 @@
 
 site_name: ymgmcmc
+repo_url: https://github.com/naoya-horai/documents.git
+site_url: https://ymgmcmc.com/documents/
+
 copyright: 'Copyright © 2023-2030 - ymgmcmc'
 
 theme:
