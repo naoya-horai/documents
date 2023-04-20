@@ -1,17 +1,9 @@
-# Welcome to ymgmcmc document
-ymgmcmcのドキュメントページです
+Introduction
+Blender, Houdini Pythonなどについて諸々まとめています。
+
+このサイトで公開している情報、ソースコードに関しては商用非商用問わず利用を許可しますが、全文掲載や画像の無断転載は禁止です。
+
+また引用時はURLの記載をよろしくお願いいたします。
+
 ホームページはこちら [ymgmcmc.com](https://ymgmcmc.com)
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+もっと散文的な情報はこちら[scrapbox](https://scrapbox.io/ymgmcmc/)
