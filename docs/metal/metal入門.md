@@ -1,4 +1,4 @@
-#　metal入門　for macOS
+#　metal入門　for　macOS
 
 macOSでmetalを用いたmacOS向けのCGのお勉強
 

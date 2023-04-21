@@ -6,5 +6,6 @@ Blender, Houdini Pythonなどについて諸々まとめています。
 
 また引用時はURLの記載をよろしくお願いいたします。
 
-ホームページはこちら [ymgmcmc.com](https://ymgmcmc.com)
-もっと散文的な情報はこちら[scrapbox](https://scrapbox.io/ymgmcmc/)
+ホームページはこちら[こちら](https://ymgmcmc.com)
+
+もっと散文的な情報はこちら[こちら](https://scrapbox.io/ymgmcmc/)
