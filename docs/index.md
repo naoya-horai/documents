@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 
 Blender, Houdini Pythonなどについて諸々まとめています。
 
@@ -9,3 +9,11 @@ Blender, Houdini Pythonなどについて諸々まとめています。
 ホームページはこちら[こちら](https://ymgmcmc.com)
 
 もっと散文的な情報はこちら[こちら](https://scrapbox.io/ymgmcmc/)
+
+# about me
+
+蓬莱直哉
+
+東京国際工科専門職大学在学
+
+好きなもの: カメラ Houdini DJ 
