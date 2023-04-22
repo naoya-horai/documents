@@ -6,7 +6,8 @@ site_url: https://ymgmcmc.com/documents/
 copyright: 'Copyright © 2023-2030 - ymgmcmc'
 
 nav: 
-  introduction: index.md
+  - top: 
+    - introduction: index.md
     - about: about.md
   - metal: metal/metal入門.md
 
