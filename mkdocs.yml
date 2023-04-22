@@ -9,8 +9,10 @@ nav:
   - top: 
     - introduction: index.md
     - about: about.md
-  - metal: metal/metal入門.md
-
+  - metal: 
+    - metalとは: metal/metalとは.md
+  - Houdini:
+    - houdiniとは: houdini/houdiniとは.md
 theme:
   name: material
   favicon: favicon.ico
