@@ -5,14 +5,18 @@ site_url: https://ymgmcmc.com/documents/
 
 copyright: 'Copyright © 2023-2030 - ymgmcmc'
 
+nav:
+  - introduction:
+    - introduction: index.md
+    - about: about.md
+  
+  - metal:
+    - about metal: metal/metal入門.md
+
 theme:
   name: material
   favicon: favicon.ico
   language: ja
-
-features:
-  tabs: true
-
-nav:
-  - introduction: index.md
-  - metal: metal
+  features:
+    - navigation.tabs
+    - navigation.top

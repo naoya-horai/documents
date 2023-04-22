@@ -10,10 +10,3 @@ Blender, Houdini Pythonなどについて諸々まとめています。
 
 もっと散文的な情報は[こちら](https://scrapbox.io/ymgmcmc/)
 
-# about me
-
-蓬莱直哉
-
-東京国際工科専門職大学在学
-
-好きなもの: カメラ Houdini DJ 
