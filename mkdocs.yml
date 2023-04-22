@@ -16,8 +16,8 @@ nav:
 theme:
   name: material
   palette:
-    primary: blue gray
-    accent: blue gray
+    primary: white
+    accent: cyan
   favicon: favicon.ico
   language: ja
   features:
