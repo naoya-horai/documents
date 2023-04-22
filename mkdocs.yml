@@ -17,11 +17,13 @@ theme:
   name: material
   palette:
     primary: blue gray
+    accent: blue gray
   favicon: favicon.ico
   language: ja
   features:
     - navigation.tabs
     - navigation.top
+    - navigation.instant 
 
 markdown_extensions:
   - pymdownx.magiclink:
