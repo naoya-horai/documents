@@ -14,5 +14,4 @@ theme:
     - tabs
 
 nav:
-  - introduction: index.mc
-  - metal: metal
+  - introduction: index.md
