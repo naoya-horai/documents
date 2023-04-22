@@ -26,4 +26,6 @@ theme:
     - navigation.instant 
 
 markdown_extensions:
+  - attr_list
+  
   - pymdownx.magiclink:
