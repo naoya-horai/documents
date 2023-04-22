@@ -12,3 +12,7 @@ theme:
 
   features:
     - tabs
+
+nav:
+  - introduction: index.mc
+  - metal: metal
