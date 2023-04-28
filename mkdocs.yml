@@ -13,6 +13,8 @@ nav:
     - metalとは: metal/metalとは.md
   - Houdini:
     - houdiniとは: houdini/houdiniとは.md
+  - pipeline:
+    - materialXを変換する: pipeline/materialXを変換する。
 theme:
   name: material
   palette:
