@@ -14,7 +14,7 @@ nav:
   - Houdini:
     - houdiniとは: houdini/houdiniとは.md
   - pipeline:
-    - materialXを変換する: pipeline/materialXを変換する。
+    - materialXを変換する: pipeline/materialXを変換する.md
 theme:
   name: material
   palette:
