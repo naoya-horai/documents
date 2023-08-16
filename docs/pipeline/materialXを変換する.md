@@ -2,4 +2,4 @@
 
 https://vimeo.com/821114705?share=copy
 
-unityのmaterialはyamlで記述されているので、ソースを編集することでパラメタを変えられる。unityの.matを開くためのモジュール　unityparsarが存在している。
+unityのmaterialはyamlで記述されているので、ソースを編集することでパラメタを変えられる。unityの.matを開くためのモジュール　UnityyamlをPythonで編集するためのunityparsarが存在している。

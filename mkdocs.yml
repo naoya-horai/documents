@@ -1,7 +1,7 @@
 
 site_name: ymgmcmc
 repo_url: https://github.com/naoya-horai/documents.git
-site_url: https://ymgmcmc.com/documents/
+site_url: https://docs.ymgmcmc.com
 
 copyright: 'Copyright © 2023-2030 - ymgmcmc'
 
@@ -9,6 +9,9 @@ nav:
   - top: 
     - introduction: index.md
     - about: about.md
+  - blog:
+    - asdfを知った: blog/asdfのことを教えてもらった。.md
+    - 環境変数の罠: blog/環境変数はsetxで足さないほうがいい.md
   - metal: 
     - metalとは: metal/metalとは.md
   - Houdini:
