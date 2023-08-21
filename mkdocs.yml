@@ -18,6 +18,8 @@ nav:
     - houdiniとは: houdini/houdiniとは.md
   - pipeline:
     - materialXを変換する: pipeline/materialXを変換する.md
+    - USD:
+      -USDビルド環境について: pipeline/USD/USDビルド環境について.md
 theme:
   name: material
   palette:
