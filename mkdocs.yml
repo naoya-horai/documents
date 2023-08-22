@@ -20,6 +20,7 @@ nav:
     - materialXを変換する: pipeline/materialXを変換する.md
     - USD:
       - USDビルド環境について: pipeline/USD/USDビルド環境について.md
+      - USD Hydra その1: pipeline/USD/USD Hydraその1.md
 theme:
   name: material
   palette:
