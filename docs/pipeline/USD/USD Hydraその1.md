@@ -9,23 +9,23 @@ USDにはシーンとレンダラをつなぐHydra Frameworkが存在します�
 https://openusd.org/files/Siggraph2019_Hydra.pdf
 を読んでみる。
 
-~~~ 
+```
 Today, Hydra is an opensource framework to transport live scene graph data to renderers.
-~~~ 
+``` 
 
 シーングラフをレンダラーに送ってくれるらしい
 
 ``` mermaid
 classDiagram
-    direction_rl
+    direction RL
     Hydra <|-- Scene1
     Hydra <|-- Scene2
     Renderer1 <|-- Hydra
     Renderer2 <|-- Hydra
 ```
-~~~
+```
 Our goal is to support both, viewport and final frame.
-~~~
+```
 ビューポートも最終レンダリングもサポートしたい。ということはどちらかというと映像向け。
 高速な描画を目指しているというよりは、大規模なシーンを高速でレンダラーへ送ることが目的で、レンダラー様に気持ちよく働いてもらうためのフレームワークなのだとわかる。
 
