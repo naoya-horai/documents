@@ -36,6 +36,7 @@ theme:
 markdown_extensions:
   - attr_list
   - pymdownx.magiclink:
+  - pymdownx.superfences:
       custom_fences:
         - name: mermaid
           class: mermaid
