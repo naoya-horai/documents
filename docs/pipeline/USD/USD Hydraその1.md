@@ -15,6 +15,13 @@ Today, Hydra is an opensource framework to transport live scene graph data to re
 
 シーングラフをレンダラーに送ってくれるらしい
 
+``` mermaid
+classDiagram
+    Hydra <|-- Scene1
+    Hydra <|-- Scene2
+    Renderer1 <|-- Hydra
+    Renderer2 <|-- Hydra
+```
 ~~~
 Our goal is to support both, viewport and final frame.
 ~~~
