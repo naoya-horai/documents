@@ -25,7 +25,7 @@ theme:
   name: material
   palette:
     primary: white
-    accent: black
+    accent: slate
   favicon: favicon.ico
   language: ja
   features:

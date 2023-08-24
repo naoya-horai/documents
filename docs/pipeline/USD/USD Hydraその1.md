@@ -23,15 +23,7 @@ classDiagram
     Renderer1 <|-- Hydra
     Renderer2 <|-- Hydra
 ```
-```
-Our goal is to support both, viewport and final frame.
-```
-ビューポートも最終レンダリングもサポートしたい。ということはどちらかというと映像向け。
-高速な描画を目指しているというよりは、大規模なシーンを高速でレンダラーへ送ることが目的で、レンダラー様に気持ちよく働いてもらうためのフレームワークなのだとわかる。
 
 シーンの中身はHydra primitivesとして処理されるらしい。
-
-また、Scene DelegateとRender Delegateを通すことで、複数シーンを読み込むだけでなく、複数レンダラーでの描画も可能になるらしい。
-需要はわからない。
 
 デフォルトのUSDビルドでは、Hydra core、Scene DelegateとしてUsdImaging、Render DelegateとしてHdStorm(高速なOpenGLレンダラー)、HdPrman(Renderman)、HdEmbreeが提供される。
