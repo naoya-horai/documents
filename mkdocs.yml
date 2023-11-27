@@ -5,22 +5,7 @@ site_url: https://docs.ymgmcmc.com
 
 copyright: 'Copyright © 2023-2030 - ymgmcmc'
 
-nav: 
-  - top: 
-    - introduction: index.md
-    - about: about.md
-  - blog:
-    - asdfを知った: blog/asdfのことを教えてもらった。.md
-    - 環境変数の罠: blog/環境変数はsetxで足さないほうがいい.md
-  - metal: 
-    - metalとは: metal/metalとは.md
-  - Houdini:
-    - houdiniとは: houdini/houdiniとは.md
-  - pipeline:
-    - materialXを変換する: pipeline/materialXを変換する.md
-    - USD:
-      - USDビルド環境について: pipeline/USD/USDビルド環境について.md
-      - USD Hydra その1: pipeline/USD/USD Hydraその1.md
+
 theme:
   name: material
   palette:
