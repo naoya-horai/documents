@@ -16,7 +16,9 @@ theme:
   features:
     - navigation.tabs
     - navigation.top
+    - navigation.footer
     - navigation.instant 
+    - search.suggest
 
 markdown_extensions:
   - attr_list
@@ -26,3 +28,12 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+
+extra:
+  social:
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/ymgmcmc
+
+plugins:
+  - git-revision-date
+  - search
