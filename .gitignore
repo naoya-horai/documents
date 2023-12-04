@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Progress documents
-/progress 
+/docs/progress 
