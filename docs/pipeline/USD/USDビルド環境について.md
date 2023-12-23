@@ -21,6 +21,8 @@ VFX Reference Platformでは、Linux、macOS、Windowsの各種プラットフ�
 
 これにあたって、Visual Studioのバージョンを2019 v16.9以上とする、windows SDKをv10.0.19041とする、Pythonのバージョンを3.9.1から3.9の最新版とする、C++のAPIレベルをC++17以上とする、などの変更があり、USDのバージョンアップに伴い、手元の環境を変更する必要があるかもしれない。
 
+20231223追記:Visual Studio 2022 Developer Command Prompt v17.5.0でのビルドができた
+
 ## 参考文献など
 https://fereria.github.io/reincarnation_tech/usd/install_usd
 
@@ -30,3 +32,4 @@ https://vfxplatform.com/platform_history.html
 
 
 最終更新日 2023-08-21
+
